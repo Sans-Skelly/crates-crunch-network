@@ -1,0 +1,11 @@
+name: Crates
+version: 1.26
+main: com.crunchnetwork.crates.Crates
+author: Crunch Network Dev Team
+description: Crates for Crunch Network!
+
+commands:
+   crates:
+      description: Base for crates
+ 
+
